@@ -8,16 +8,14 @@ If you choose to use our Service, then you agree to the collection and use of in
 
 ## Information Collection and Use 
 
-We collect  certain personally identifiable information, including user's Name, e-mail address, contact number, year of Graduation and password for future reference in using the application. The information that we request to take will be retained by us and used as described in this privacy policy.
+We collect certain personally identifiable information, including user's Name, e-mail address, contact number, year of Graduation, user type (student, teacher, alumni), roll no, registration number and password for future reference in using the application. The information that we request to take will be retained by us and used as described in this privacy policy.
 
 The app does use third-party services that may collect information used to identify you.
 
 Link to the privacy policy of third-party service providers used by the app
 
 • Google Play Services <br/>
-• AdMob <br/>
 • Google Analytics for Firebase <br/>
-• Unity <br/>
 
 ## Cookies 
 
@@ -35,7 +33,7 @@ We value your trust in providing us your Personal Information, thus we are striv
 
 We may update our Privacy Policy from time to time, which is very rare to happen but if we do , you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2021-12-29
+This policy is effective as of 2022-08-12
 
 ## Contact Us 
 
